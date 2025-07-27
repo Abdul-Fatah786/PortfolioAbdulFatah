@@ -37,9 +37,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I am a skilled full-stack developer with hands-on experience building complete web applications from scratch. My projects have involved both frontend and backend development, including designing and integrating RESTful and third-party APIs. I’ve worked extensively with databases like PostgreSQL, MongoDB, and XAMPP, and have implemented secure authentication and authorization systems using JWT tokens. I hold a Bachelor's degree in Computer Science from SMIU, one of the most historic institutions in South Asia. In addition to development, I’m currently involved in teaching and mentoring, where I find great fulfillment in helping others grow and succeed in the tech industry.
+            {"I am a skilled full-stack developer with hands-on experience building complete web applications from scratch. My projects have involved both frontend and backend development, including designing and integrating RESTful and third-party APIs. I've worked extensively with databases like PostgreSQL, MongoDB, and XAMPP, and have implemented secure authentication and authorization systems using JWT tokens. I hold a Bachelor's degree in Computer Science from SMIU, one of the most historic institutions in South Asia. In addition to development, I'm currently involved in teaching and mentoring, where I find great fulfillment in helping others grow and succeed in the tech industry."}
           </p>
-
           <div>
             <Link
               href="/#contact"
